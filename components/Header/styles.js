@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
   },
   textHeader: {},
   date: {
-    fontSize: 16,
+    fontSize: 18,
     color: 'black',
     fontStyle: 'italic',
     marginTop: 16,
