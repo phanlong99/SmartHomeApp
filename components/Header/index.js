@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { View, Text, Image, TouchableOpacity } from 'react-native';
+import { View, Text } from 'react-native';
 import styles from './styles';
-import Button from '../Button';
+import ButtonDoor from '../ButtonDoor';
 
 const Header = (props) => {
   return (
@@ -10,7 +10,7 @@ const Header = (props) => {
         <Text style={styles.date}> January 3, 2022</Text>
         <Text style={styles.welcome}> Welcome</Text>
       </View>
-      <Button />
+      <ButtonDoor />
     </View>
   );
 };
