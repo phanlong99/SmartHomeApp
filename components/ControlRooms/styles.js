@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
   container: {
     width: 360,
     height: 230,
-    marginTop: 360,
+    marginTop: 60,
     borderColor: '#00000020',
     borderWidth: 1,
     borderRadius: 10,
